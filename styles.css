@@ -3,14 +3,25 @@
     background-color: deeppink;
     color: ghostwhite;
     display: flex;
-    align-content: column;
+    align-content: row;
     justify-content: space-between;
+    padding: 5px 10px;
+}
+
+.title {
+  display: flex;
+  justify-self: center;
 }
 
 ul {
   display: flex;
   list-style: none;
-  margin: 0;
-  padding: 0;
-  gap: 16px
+  text-decoration: none;
+  color: ghostwhite;
+  gap: 10px;
+}
+
+.section-1 {
+  background-color: deeppink;
+  color: ghostwhite;
 }
