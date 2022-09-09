@@ -1,9 +1,11 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .header {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: deeppink;
     color: ghostwhite;
     display: flex;
-    align-content: row;
     justify-content: space-between;
     padding: 5px 10px;
 }
@@ -24,4 +26,9 @@ ul {
 .section-1 {
   background-color: deeppink;
   color: ghostwhite;
+}
+
+img {
+  max-width: 500px;
+  height: auto;
 }
