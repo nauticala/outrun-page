@@ -3,29 +3,24 @@
 }
 
 .header {
-    background-color: deeppink;
-    color: ghostwhite;
+    background-color: #ff1493;
+    color: #ffffff;
     display: flex;
     justify-content: space-between;
     padding: 5px 10px;
 }
 
-.title {
-  display: flex;
-  justify-self: center;
-}
-
-ul {
-  display: flex;
-  list-style: none;
-  text-decoration: none;
-  color: ghostwhite;
-  gap: 10px;
-}
+  ul {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: #ffffff;
+    gap: 10px;
+  }
 
 .section-1 {
-  background-color: deeppink;
-  color: ghostwhite;
+  background-color: #ff1493;
+  color: #ffffff
 }
 
 img {
