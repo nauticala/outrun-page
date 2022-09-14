@@ -7,7 +7,7 @@
     color: #ffffff;
     display: flex;
     justify-content: space-between;
-    padding: 5px 10px;
+    padding: 5px 115px;
 }
 
 ul {
@@ -28,7 +28,7 @@ a:hover {
 
 .section-1 {
   background-color: rgb(193, 38, 188);
-  color: #ffffff
+  color: #ffffff;
 }
 
 img {
