@@ -29,9 +29,24 @@ a:hover {
 .section-1 {
   background-color: rgb(193, 38, 188);
   color: #ffffff;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
   max-width: 500px;
+  height: auto;
+}
+
+.big-text {
+  font-size: 30px;
+}
+
+.small-text {
+  font-size: 10px;
+}
+
+button {
+  width: 100px;
   height: auto;
 }
