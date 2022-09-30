@@ -33,6 +33,7 @@ a:hover {
   align-items: center;
   gap: 150px;
   padding-bottom: 15px;
+  padding-top: 7px;
 }
 
 .section1-main {
@@ -43,6 +44,7 @@ a:hover {
 img {
   max-width: 500px;
   height: auto;
+  padding-left: 125px;
 }
 
 .big-text {
