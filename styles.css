@@ -3,11 +3,11 @@
 }
 
 .header {
-    background-color: rgb(193, 38, 188);
-    color: #ffffff;
-    display: flex;
-    justify-content: space-between;
-    padding: 5px 115px;
+  background-color: rgb(193, 38, 188);
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 115px;
 }
 
 ul {
@@ -41,7 +41,7 @@ a:hover {
   width: 500px;
 }
 
-img {
+.sect1-img {
   max-width: 500px;
   height: auto;
   padding-left: 125px;
@@ -61,4 +61,26 @@ img {
   color: #ffffff;
   background-color: #9932cc;
   border-radius: 25px;
+}
+
+.sect2-header {
+  display: flex;
+  justify-content: center;
+}
+
+.s2-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.img-text {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sect2-img {
+  height: 250px;
+  width: 250px;
 }
