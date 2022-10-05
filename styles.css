@@ -74,13 +74,13 @@ a:hover {
   align-items: center;
 }
 
-.img-text {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+.s2-img {
+  height: 220px;
+  width: 220px;
+  border-radius: 25px;
 }
 
-.sect2-img {
-  height: 250px;
-  width: 250px;
+.quote {
+  display: flex;
+  align-items: center;
 }
