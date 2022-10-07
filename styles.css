@@ -3,7 +3,7 @@
 }
 
 .header {
-  background-color: rgb(193, 38, 188);
+  background-color: #00ced1;
   color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -27,7 +27,7 @@ a:hover {
 }
 
 .section-1 {
-  background-color: rgb(193, 38, 188);
+  background-color: #00ced1;
   color: #ffffff;
   display: flex;
   align-items: center;
@@ -59,8 +59,9 @@ a:hover {
   width: 90px;
   height: auto;
   color: #ffffff;
-  background-color: #9932cc;
+  background-color: #ff00ff;
   border-radius: 25px;
+  padding: 5px;
 }
 
 .sect2-header {
@@ -100,4 +101,53 @@ a:hover {
   padding-top: 60px;
   padding-left: 750px;
   font-size: 18px;
+}
+
+.section-4 {
+  background-color: #ff00ff;
+  margin: 78px 108px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.action,
+.purchase,
+.go-shopping {
+  color: #ffffff;
+}
+
+.action {
+  padding-top: 28px;
+  font-size: 18px;
+}
+
+.purchase {
+  font-size: 11px;
+  padding-bottom: 29px;
+}
+
+.go-shopping {
+  width: 90px;
+  height: 28px;
+  border-radius: 25px;
+  align-self: center;
+  background-color: #ff00ff;
+  border-color: #ffffff;
+}
+
+.footer {
+  background-color: #00ced1;
+  color: #ffffff;
+  height: 80px;
+  text-align: center;
+}
+
+.footer p {
+  padding: 24px
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
 }
