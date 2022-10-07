@@ -108,6 +108,7 @@ a:hover {
   margin: 78px 108px;
   display: flex;
   justify-content: space-around;
+  border-radius: 15px;
 }
 
 .action,
